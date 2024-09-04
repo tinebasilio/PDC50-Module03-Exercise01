@@ -4,7 +4,7 @@
   <table>
     <tr>
       <td><img src="Screenshots/6.png" width="350"/></td>
-      <td><img src="Screenshots/7.png" width="350"/></td>
+      <td><img src="Screenshots/2.png" width="350"/></td>
     </tr>
   </table>
 
